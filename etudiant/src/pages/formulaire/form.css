@@ -1,0 +1,37 @@
+.form {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    padding-top: 25px;
+    flex-wrap: wrap;
+    
+  }
+  .input{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    color: #820000;
+    font-size: 15px;
+    font-weight : bold;
+    padding-top:1px;
+    
+
+}
+  .div Form{
+    align-items: left;
+    width: 100px;
+    height: 100px;
+  }
+  .space {
+    width: 7px;
+    height: auto;
+    display: inline-block;
+  } 
+  .tab{
+    align-items:center;
+    font-style: italic;
+    color: #820000;
+    text-align: right;
+    padding: 50px 50px 50px 50px;
+   
+  }

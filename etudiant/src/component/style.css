@@ -1,0 +1,43 @@
+.ltr {
+    @import "../node_modules/bootstrap/scss/bootstrap";
+  }
+  .container{
+    display: flex;
+       flex-direction: row;
+    justify-content:space-around;
+    }
+    .space {
+        width: 7px;
+        height: auto;
+        display: inline-block;
+      }
+      .h3{
+        align-items: center;
+        color: #820000;
+        text-align: center;
+        padding: 50px 50px 50px 50px;
+       
+      }
+      .h6{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      text-align: center;
+        
+    
+      }
+      .th{
+        text-align: center;
+      }
+      .td{
+        text-align: right;
+      }
+.video{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bouton{
+  background-color : none ! important }
